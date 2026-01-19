@@ -1,6 +1,14 @@
-## Hi there 👋
+HEY  there ! 👋
 
+I'm Harsh , a webdeveloper from delhi 
+
+I design and build whatever i can imagine 
+
+if an idea pops into my head, chances are I'll work on that .
+
+My main tech stack is javascript , css , react . I'm currently learn my backend development of web development 
 <!--
+
 **harsh5908/harsh5908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
