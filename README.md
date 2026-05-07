@@ -1,24 +1,30 @@
-HEY  there ! 👋
+# Hi 👋, I'm Harsh Anand
 
-I'm Harsh , a webdeveloper from delhi 
+💻 Full Stack Web Developer
+🚀 Passionate about building modern web applications and learning new technologies.
 
-I design and build whatever i can imagine 
+## 🛠️ Skills
 
-if an idea pops into my head, chances are I'll work on that .
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* MERN Stack
 
-My main tech stack is javascript , css , react . I'm currently learn my backend development of web development 
-<!--
+## 🌱 Currently Learning
 
-**harsh5908/harsh5908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Advanced Backend Development
+* APIs & Authentication
+* Next.js
 
-Here are some ideas to get you started:
+## ⚡ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating responsive websites, solving coding problems, and improving my development skills every day.
+
+## 📫 Connect With Me
+
+* GitHub: harsh5908
+* Leetcode : harsh_anand412007
