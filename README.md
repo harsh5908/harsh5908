@@ -1,4 +1,4 @@
-# Hi 👋, I'm Harsh Anand
+# Hi, I'm Harsh Anand
 
 💻 Full Stack Web Developer
 🚀 Passionate about building modern web applications and learning new technologies.
